@@ -1,5 +1,4 @@
-# rap_unmanaged_sales_order_bo
-RAP Unmanaged project using Sales Order 
+# RAP Unmanaged Scenario using Business Object I_SALESORDERTP (Sales Order)
 
 ### Method Get Token
 <img width="1405" height="668" alt="image" src="https://github.com/user-attachments/assets/83bcfdf6-d64e-4fd4-b6ea-4551b8192ccf" />
